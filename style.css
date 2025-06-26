@@ -1,10 +1,13 @@
 body {
     background-color: black;
 }
+
+main{
+    display: flex;
+}
 img {
     width: 34%;
 }
-ol, li {
-    text-align: center;
-    
+ul {
+    color: aliceblue;
 }
