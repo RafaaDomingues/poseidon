@@ -8,8 +8,9 @@ main{
 img {
     width: 34%;
 }
-ul {
+ul li{
     color: aliceblue;
+    text-decoration: none;
 }
 .neon-text {
       font-size: 60px;
