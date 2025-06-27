@@ -13,6 +13,7 @@ ul li{
     text-decoration: none;
     top: 50%;
     left: 70%;
+    position: relative;
 }
 .neon-text {
       font-size: 60px;
